@@ -1,0 +1,5 @@
+Ideas for additions
+------------------------------------
+    Social Media Sharing
+    Image Resizing
+    Imgur Uploading
